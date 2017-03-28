@@ -2,7 +2,7 @@ var CACHE_NAME = 'gih-cache-v4';
 var CACHED_URLS = [
   'offline.html',
   'mystyles.css',
-  'dino.png'
+  'appimages/dino.png'
 ];
 
 
