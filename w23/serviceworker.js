@@ -5,6 +5,7 @@ var CACHED_URLS = [
   // Stylesheets and fonts
   // JavaScript
   // Images
+    'appimages/dino.png'
 ];
 
 self.addEventListener('install', function(event) {
