@@ -1,4 +1,4 @@
-var BASE_PATH = '/proghapi/w24/';
+var BASE_PATH = '/ProgHAPI/w24/';
 var CACHE_NAME = 'gih-cache-v6';
 var CACHED_URLS = [
     // Our HTML
