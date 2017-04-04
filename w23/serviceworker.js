@@ -1,4 +1,4 @@
-var BASE_PATH = '/ProgHAPI/w23';
+var BASE_PATH = '/ProgHAPI/w23/';
 var CACHE_NAME = 'gih-cache-v6';
 var CACHED_URLS = [
     // Our HTML
@@ -54,7 +54,7 @@ var CACHED_URLS = [
     BASE_PATH + 'styles.css'
 ];
 
-var googleMapsAPIJS = 'https://maps.googleapis.com/maps/api/js?key=a89784750fb14ee9986d6087f826fa79&callback=initMap';
+var googleMapsAPIJS = 'https://maps.googleapis.com/maps/api/js?key=AIzaSyDxQCWZvwRArP8VDTzCUvlL_jxtBPyFAhg&callback=initMap';
 
 self.addEventListener('install', function(event) {
   // Cache everything in CACHED_URLS. Installation fails if anything fails to cache
